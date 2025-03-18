@@ -160,13 +160,22 @@ strong{
         border-radius: 60%;
     }
 
+    .apresentacao__conteudo__titulo{
+        font-size: 1.75rem;
+    }
+
     .apresentacao__conteudo__texto{
         background-color: #f8a8c3;
         border-radius:4%;
+        font-size: 1.25rem;
     }
 
 .apresentacao__conteudo{
-    width: auto;
+    width: 90%;
+}
+
+.apresentacao__links__navegacao{
+    width: 90%;
 }
 
 .div__mobile{
