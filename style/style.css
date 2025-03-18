@@ -161,7 +161,7 @@ strong{
     }
 
     .apresentacao__conteudo__titulo{
-        font-size: 1.75rem;
+        font-size: 2.25rem;
     }
 
     .apresentacao__conteudo__texto{
@@ -176,6 +176,10 @@ strong{
 
 .apresentacao__links__navegacao{
     width: 90%;
+}
+
+.apresentacao__links__navegacao:hover{
+    width: 84%;
 }
 
 .div__mobile{
